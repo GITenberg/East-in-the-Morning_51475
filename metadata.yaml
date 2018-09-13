@@ -1,0 +1,33 @@
+_repo: East-in-the-Morning_51475
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Francis, Dick
+    alias: Francis, Richard D.
+    gutenberg_agent_id: '33940'
+    url: http://www.gutenberg.org/2009/agents/33940
+creator:
+  author:
+    agent_name: Fisher, David E.
+    birthdate: 1932
+    gutenberg_agent_id: '35541'
+    url: http://www.gutenberg.org/2009/agents/35541
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51475'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Physicists -- Fiction'
+- !lcsh 'Immortality -- Fiction'
+- !lcsh 'Science fiction'
+- GITenberg
+title: East in the Morning
+url: http://www.gutenberg.org/ebooks/51475
